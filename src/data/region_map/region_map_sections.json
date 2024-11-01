@@ -238,7 +238,7 @@
       "x": 1,
       "y": 0,
       "width": 2,
-      "height": 3
+      "height": 2
     },
     {
       "map_section": "MAPSEC_ROUTE_115",
@@ -444,7 +444,7 @@
       "map_section": "MAPSEC_GRANITE_CAVE",
       "name": "GRANITE CAVE",
       "x": 1,
-      "y": 13,
+      "y": 14,
       "width": 1,
       "height": 1
     },
@@ -452,9 +452,9 @@
       "map_section": "MAPSEC_MT_CHIMNEY",
       "name": "MT. CHIMNEY",
       "x": 6,
-      "y": 2,
-      "width": 1,
-      "height": 1
+      "y": 1,
+      "width": 2,
+      "height": 2
     },
     {
       "map_section": "MAPSEC_SAFARI_ZONE",
@@ -492,23 +492,23 @@
       "map_section": "MAPSEC_ABANDONED_SHIP",
       "name": "ABANDONED SHIP",
       "x": 6,
-      "y": 14,
+      "y": 13,
       "width": 1,
       "height": 1
     },
     {
       "map_section": "MAPSEC_NEW_MAUVILLE",
       "name": "NEW MAUVILLE",
-      "x": 8,
-      "y": 7,
+      "x": 10,
+      "y": 5,
       "width": 1,
       "height": 1
     },
     {
       "map_section": "MAPSEC_METEOR_FALLS",
       "name": "METEOR FALLS",
-      "x": 0,
-      "y": 3,
+      "x": 1,
+      "y": 2,
       "width": 1,
       "height": 1
     },
@@ -524,15 +524,15 @@
       "map_section": "MAPSEC_MT_PYRE",
       "name": "MT. PYRE",
       "x": 16,
-      "y": 4,
+      "y": 5,
       "width": 1,
       "height": 1
     },
     {
       "map_section": "MAPSEC_AQUA_HIDEOUT_OLD",
       "name": "{AQUA} HIDEOUT",
-      "x": 19,
-      "y": 3,
+      "x": 20,
+      "y": 2,
       "width": 1,
       "height": 1
     },
@@ -540,7 +540,7 @@
       "map_section": "MAPSEC_SHOAL_CAVE",
       "name": "SHOAL CAVE",
       "x": 24,
-      "y": 4,
+      "y": 2,
       "width": 1,
       "height": 1
     },
@@ -571,7 +571,7 @@
     {
       "map_section": "MAPSEC_MIRAGE_ISLAND",
       "name": "MIRAGE ISLAND",
-      "x": 17,
+      "x": 19,
       "y": 10,
       "width": 1,
       "height": 1
@@ -595,8 +595,8 @@
     {
       "map_section": "MAPSEC_FIERY_PATH",
       "name": "FIERY PATH",
-      "x": 6,
-      "y": 3,
+      "x": 7,
+      "y": 2,
       "width": 1,
       "height": 1
     },
@@ -604,7 +604,7 @@
       "map_section": "MAPSEC_FIERY_PATH2",
       "name": "FIERY PATH",
       "x": 7,
-      "y": 3,
+      "y": 2,
       "width": 1,
       "height": 1
     },
@@ -612,14 +612,14 @@
       "map_section": "MAPSEC_JAGGED_PASS",
       "name": "JAGGED PASS",
       "x": 6,
-      "y": 3,
+      "y": 2,
       "width": 1,
       "height": 1
     },
     {
       "map_section": "MAPSEC_JAGGED_PASS2",
       "name": "JAGGED PASS",
-      "x": 7,
+      "x": 6,
       "y": 2,
       "width": 1,
       "height": 1
@@ -636,7 +636,7 @@
       "map_section": "MAPSEC_UNDERWATER_SEALED_CHAMBER",
       "name": "UNDERWATER",
       "x": 11,
-      "y": 10,
+      "y": 9,
       "width": 1,
       "height": 1
     },
@@ -683,8 +683,8 @@
     {
       "map_section": "MAPSEC_SKY_PILLAR",
       "name": "SKY PILLAR",
-      "x": 19,
-      "y": 10,
+      "x": 20,
+      "y": 9,
       "width": 1,
       "height": 1
     },
