@@ -237,8 +237,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MARCEL ===
 Name: MARCEL
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Hyper Potion
@@ -663,8 +663,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FELIX ===
 Name: FELIX
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Full Restore
@@ -924,8 +924,8 @@ IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_GABBY_AND_TY_1 ===
 Name: GABBY & TY
-Class: Interviewer
-Pic: Interviewer
+Class: Reporters
+Pic: Reporters
 Gender: Male
 Music: Interviewer
 Double Battle: Yes
@@ -941,8 +941,8 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_GABBY_AND_TY_2 ===
 Name: GABBY & TY
-Class: Interviewer
-Pic: Interviewer
+Class: Reporters
+Pic: Reporters
 Gender: Male
 Music: Interviewer
 Double Battle: Yes
@@ -958,8 +958,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_GABBY_AND_TY_3 ===
 Name: GABBY & TY
-Class: Interviewer
-Pic: Interviewer
+Class: Reporters
+Pic: Reporters
 Gender: Male
 Music: Interviewer
 Double Battle: Yes
@@ -975,8 +975,8 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_GABBY_AND_TY_4 ===
 Name: GABBY & TY
-Class: Interviewer
-Pic: Interviewer
+Class: Reporters
+Pic: Reporters
 Gender: Male
 Music: Interviewer
 Double Battle: Yes
@@ -992,8 +992,8 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_GABBY_AND_TY_5 ===
 Name: GABBY & TY
-Class: Interviewer
-Pic: Interviewer
+Class: Reporters
+Pic: Reporters
 Gender: Male
 Music: Interviewer
 Double Battle: Yes
@@ -1009,8 +1009,8 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_GABBY_AND_TY_6 ===
 Name: GABBY & TY
-Class: Interviewer
-Pic: Interviewer
+Class: Reporters
+Pic: Reporters
 Gender: Male
 Music: Interviewer
 Double Battle: Yes
@@ -1260,8 +1260,8 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_RANDALL ===
 Name: RANDALL
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Hyper Potion
@@ -1277,8 +1277,8 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_PARKER ===
 Name: PARKER
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Hyper Potion
@@ -1294,8 +1294,8 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_GEORGE ===
 Name: GEORGE
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Hyper Potion
@@ -1311,8 +1311,8 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BERKE ===
 Name: BERKE
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Hyper Potion
@@ -1327,8 +1327,8 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_BRAXTON ===
 Name: BRAXTON
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Hyper Potion
@@ -1377,8 +1377,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_VINCENT ===
 Name: VINCENT
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Full Restore
@@ -1399,8 +1399,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_LEROY ===
 Name: LEROY
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Full Restore
@@ -1417,8 +1417,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_WILTON_1 ===
 Name: WILTON
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Super Potion
@@ -1439,8 +1439,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_EDGAR ===
 Name: EDGAR
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Full Restore
@@ -1457,8 +1457,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ALBERT ===
 Name: ALBERT
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Full Restore
@@ -1475,8 +1475,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_SAMUEL ===
 Name: SAMUEL
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Full Restore
@@ -1497,8 +1497,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_VITO ===
 Name: VITO
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Full Restore
@@ -1523,8 +1523,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_OWEN ===
 Name: OWEN
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Full Restore
@@ -1545,8 +1545,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_WILTON_2 ===
 Name: WILTON
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Hyper Potion
@@ -1567,8 +1567,8 @@ IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_WILTON_3 ===
 Name: WILTON
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Hyper Potion
@@ -1589,8 +1589,8 @@ IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_WILTON_4 ===
 Name: WILTON
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Full Restore
@@ -1611,8 +1611,8 @@ IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_WILTON_5 ===
 Name: WILTON
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Full Restore
@@ -1633,8 +1633,8 @@ IVs: 17 HP / 17 Atk / 17 Def / 17 SpA / 17 SpD / 17 Spe
 
 === TRAINER_WARREN ===
 Name: WARREN
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Full Restore
@@ -1651,8 +1651,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MARY ===
 Name: MARY
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion
@@ -1667,8 +1667,8 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_ALEXIA ===
 Name: ALEXIA
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion
@@ -1684,8 +1684,8 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_JODY ===
 Name: JODY
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion
@@ -1700,8 +1700,8 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_WENDY ===
 Name: WENDY
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
@@ -1734,8 +1734,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KEIRA ===
 Name: KEIRA
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
@@ -1752,8 +1752,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BROOKE_1 ===
 Name: BROOKE
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Super Potion
@@ -1774,8 +1774,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JENNIFER ===
 Name: JENNIFER
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
@@ -1788,8 +1788,8 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_HOPE ===
 Name: HOPE
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
@@ -1802,8 +1802,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_SHANNON ===
 Name: SHANNON
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
@@ -1816,8 +1816,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MICHELLE ===
 Name: MICHELLE
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
@@ -1838,8 +1838,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CAROLINE ===
 Name: CAROLINE
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
@@ -1856,8 +1856,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JULIE ===
 Name: JULIE
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
@@ -1878,8 +1878,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BROOKE_2 ===
 Name: BROOKE
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion
@@ -1900,8 +1900,8 @@ IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_BROOKE_3 ===
 Name: BROOKE
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion
@@ -1922,8 +1922,8 @@ IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_BROOKE_4 ===
 Name: BROOKE
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
@@ -1944,8 +1944,8 @@ IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_BROOKE_5 ===
 Name: BROOKE
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
@@ -2115,8 +2115,8 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_CINDY_1 ===
 Name: CINDY
-Class: Lady
-Pic: Lady
+Class: Rich Girl
+Pic: Rich Girl
 Gender: Female
 Music: Female
 Items: Full Restore
@@ -2129,8 +2129,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DAPHNE ===
 Name: DAPHNE
-Class: Lady
-Pic: Lady
+Class: Rich Girl
+Pic: Rich Girl
 Gender: Female
 Music: Female
 Items: Full Restore
@@ -2176,8 +2176,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CINDY_2 ===
 Name: CINDY
-Class: Lady
-Pic: Lady
+Class: Rich Girl
+Pic: Rich Girl
 Gender: Female
 Music: Female
 Items: Full Restore
@@ -2192,8 +2192,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRIANNA ===
 Name: BRIANNA
-Class: Lady
-Pic: Lady
+Class: Rich Girl
+Pic: Rich Girl
 Gender: Female
 Music: Female
 Items: Full Restore
@@ -2206,8 +2206,8 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_NAOMI ===
 Name: NAOMI
-Class: Lady
-Pic: Lady
+Class: Rich Girl
+Pic: Rich Girl
 Gender: Female
 Music: Female
 Items: Full Restore
@@ -2220,8 +2220,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CINDY_3 ===
 Name: CINDY
-Class: Lady
-Pic: Lady
+Class: Rich Girl
+Pic: Rich Girl
 Gender: Female
 Music: Female
 Items: Full Restore
@@ -2234,8 +2234,8 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_CINDY_4 ===
 Name: CINDY
-Class: Lady
-Pic: Lady
+Class: Rich Girl
+Pic: Rich Girl
 Gender: Female
 Music: Female
 Items: Full Restore
@@ -2248,8 +2248,8 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_CINDY_5 ===
 Name: CINDY
-Class: Lady
-Pic: Lady
+Class: Rich Girl
+Pic: Rich Girl
 Gender: Female
 Music: Female
 Items: Full Restore
@@ -2262,8 +2262,8 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_CINDY_6 ===
 Name: CINDY
-Class: Lady
-Pic: Lady
+Class: Rich Girl
+Pic: Rich Girl
 Gender: Female
 Music: Female
 Items: Full Restore
@@ -6041,8 +6041,8 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_QUINCY ===
 Name: QUINCY
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Full Restore
@@ -6067,8 +6067,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_KATELYNN ===
 Name: KATELYNN
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
@@ -7576,8 +7576,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_YASU ===
 Name: YASU
-Class: Ninja Boy
-Pic: Ninja Boy
+Class: Ninja Fan
+Pic: Ninja Fan
 Gender: Male
 Music: Suspicious
 Double Battle: No
@@ -7589,8 +7589,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TAKASHI ===
 Name: TAKASHI
-Class: Ninja Boy
-Pic: Ninja Boy
+Class: Ninja Fan
+Pic: Ninja Fan
 Gender: Male
 Music: Suspicious
 Double Battle: No
@@ -7606,8 +7606,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_DIANNE ===
 Name: DIANNE
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
@@ -7639,8 +7639,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LAO_1 ===
 Name: LAO
-Class: Ninja Boy
-Pic: Ninja Boy
+Class: Ninja Fan
+Pic: Ninja Fan
 Gender: Male
 Music: Suspicious
 Double Battle: No
@@ -7671,8 +7671,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LUNG ===
 Name: LUNG
-Class: Ninja Boy
-Pic: Ninja Boy
+Class: Ninja Fan
+Pic: Ninja Fan
 Gender: Male
 Music: Suspicious
 Double Battle: No
@@ -7687,8 +7687,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LAO_2 ===
 Name: LAO
-Class: Ninja Boy
-Pic: Ninja Boy
+Class: Ninja Fan
+Pic: Ninja Fan
 Gender: Male
 Music: Suspicious
 Double Battle: No
@@ -7724,8 +7724,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LAO_3 ===
 Name: LAO
-Class: Ninja Boy
-Pic: Ninja Boy
+Class: Ninja Fan
+Pic: Ninja Fan
 Gender: Male
 Music: Suspicious
 Double Battle: No
@@ -7761,8 +7761,8 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_LAO_4 ===
 Name: LAO
-Class: Ninja Boy
-Pic: Ninja Boy
+Class: Ninja Fan
+Pic: Ninja Fan
 Gender: Male
 Music: Suspicious
 Double Battle: No
@@ -7796,8 +7796,8 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_LAO_5 ===
 Name: LAO
-Class: Ninja Boy
-Pic: Ninja Boy
+Class: Ninja Fan
+Pic: Ninja Fan
 Gender: Male
 Music: Suspicious
 Double Battle: No
@@ -7833,8 +7833,8 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_JOCELYN ===
 Name: JOCELYN
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -7846,8 +7846,8 @@ IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_LAURA ===
 Name: LAURA
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -7859,8 +7859,8 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_CYNDY_1 ===
 Name: CYNDY
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -7876,8 +7876,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CORA ===
 Name: CORA
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -7889,8 +7889,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_PAULA ===
 Name: PAULA
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -7902,8 +7902,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CYNDY_2 ===
 Name: CYNDY
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -7919,8 +7919,8 @@ IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_CYNDY_3 ===
 Name: CYNDY
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -7936,8 +7936,8 @@ IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_CYNDY_4 ===
 Name: CYNDY
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -7953,8 +7953,8 @@ IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 === TRAINER_CYNDY_5 ===
 Name: CYNDY
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -9183,8 +9183,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JAZMYN ===
 Name: JAZMYN
-Class: Cooltrainer 2
-Pic: Cooltrainer F
+Class: Ace Trainer 2
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion
@@ -9197,8 +9197,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JONAS ===
 Name: JONAS
-Class: Ninja Boy
-Pic: Ninja Boy
+Class: Ninja Fan
+Pic: Ninja Fan
 Gender: Male
 Music: Suspicious
 Double Battle: No
@@ -9265,8 +9265,8 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MARLEY ===
 Name: MARLEY
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion
@@ -9283,8 +9283,8 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 === TRAINER_REYNA ===
 Name: REYNA
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -9365,7 +9365,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 === TRAINER_TABITHA_MOSSDEEP ===
 Name: TABITHA
 Class: Magma Admin
-Pic: Magma Admin
+Pic: Magma Admin M
 Gender: Male
 Music: Magma
 Double Battle: No
@@ -9879,8 +9879,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MITCHELL ===
 Name: MITCHELL
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Double Battle: No
@@ -10069,8 +10069,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HALLE ===
 Name: HALLE
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
@@ -10583,8 +10583,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_LILITH ===
 Name: LILITH
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -10635,8 +10635,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ATHENA ===
 Name: ATHENA
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion
@@ -10926,7 +10926,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 === TRAINER_TABITHA_MT_CHIMNEY ===
 Name: TABITHA
 Class: Magma Admin
-Pic: Magma Admin
+Pic: Magma Admin M
 Gender: Male
 Music: Magma
 Double Battle: No
@@ -10950,8 +10950,8 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_JONATHAN ===
 Name: JONATHAN
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Hyper Potion
@@ -11861,8 +11861,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GERALD ===
 Name: GERALD
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Hyper Potion
@@ -11879,8 +11879,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_VIVIAN ===
 Name: VIVIAN
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -11904,8 +11904,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_DANIELLE ===
 Name: DANIELLE
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -11921,8 +11921,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_HIDEO ===
 Name: HIDEO
-Class: Ninja Boy
-Pic: Ninja Boy
+Class: Ninja Fan
+Pic: Ninja Fan
 Gender: Male
 Music: Suspicious
 Double Battle: No
@@ -11946,8 +11946,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KEIGO ===
 Name: KEIGO
-Class: Ninja Boy
-Pic: Ninja Boy
+Class: Ninja Fan
+Pic: Ninja Fan
 Gender: Male
 Music: Suspicious
 Double Battle: No
@@ -11971,8 +11971,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_RILEY ===
 Name: RILEY
-Class: Ninja Boy
-Pic: Ninja Boy
+Class: Ninja Fan
+Pic: Ninja Fan
 Gender: Male
 Music: Suspicious
 Double Battle: No
@@ -12456,8 +12456,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ALEXA ===
 Name: ALEXA
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
@@ -12474,8 +12474,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_RUBEN ===
 Name: RUBEN
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Hyper Potion
@@ -12951,8 +12951,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_SARAH ===
 Name: SARAH
-Class: Lady
-Pic: Lady
+Class: Rich Girl
+Pic: Rich Girl
 Gender: Female
 Music: Female
 Items: Full Restore
@@ -13486,7 +13486,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 === TRAINER_TABITHA_MAGMA_HIDEOUT ===
 Name: TABITHA
 Class: Magma Admin
-Pic: Magma Admin
+Pic: Magma Admin M
 Gender: Male
 Music: Magma
 Double Battle: No
@@ -13510,8 +13510,8 @@ IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
 === TRAINER_DARCY ===
 Name: DARCY
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion
@@ -13643,8 +13643,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_CAROLINA ===
 Name: CAROLINA
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion
@@ -13784,8 +13784,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JAIDEN ===
 Name: JAIDEN
-Class: Ninja Boy
-Pic: Ninja Boy
+Class: Ninja Fan
+Pic: Ninja Fan
 Gender: Male
 Music: Suspicious
 Double Battle: No
@@ -13818,8 +13818,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HELENE ===
 Name: HELENE
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -13912,8 +13912,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AISHA ===
 Name: AISHA
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -13986,8 +13986,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LEONEL ===
 Name: LEONEL
-Class: Cooltrainer
-Pic: Cooltrainer M
+Class: Ace Trainer
+Pic: Ace Trainer M
 Gender: Male
 Music: Cool
 Items: Hyper Potion
@@ -14003,8 +14003,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CALLIE ===
 Name: CALLIE
-Class: Battle Girl
-Pic: Battle Girl
+Class: Kick Girl
+Pic: Kick Girl
 Gender: Female
 Music: Intense
 Double Battle: No
@@ -14103,8 +14103,8 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_CRISTIN_1 ===
 Name: CRISTIN
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion
@@ -16328,8 +16328,8 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_CRISTIN_2 ===
 Name: CRISTIN
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion
@@ -16346,8 +16346,8 @@ IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 === TRAINER_CRISTIN_3 ===
 Name: CRISTIN
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion
@@ -16368,8 +16368,8 @@ IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 === TRAINER_CRISTIN_4 ===
 Name: CRISTIN
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion
@@ -16390,8 +16390,8 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_CRISTIN_5 ===
 Name: CRISTIN
-Class: Cooltrainer
-Pic: Cooltrainer F
+Class: Ace Trainer
+Pic: Ace Trainer F
 Gender: Female
 Music: Cool
 Items: Hyper Potion

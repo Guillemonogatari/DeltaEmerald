@@ -18,7 +18,7 @@
 #define TRAINER_PIC_HIKER                  0
 #define TRAINER_PIC_AQUA_GRUNT_M           1
 #define TRAINER_PIC_POKEMON_BREEDER_F      2
-#define TRAINER_PIC_COOLTRAINER_M          3
+#define TRAINER_PIC_ACE_TRAINER_M          3
 #define TRAINER_PIC_BIRD_KEEPER            4
 #define TRAINER_PIC_COLLECTOR              5
 #define TRAINER_PIC_AQUA_GRUNT_F           6
@@ -32,11 +32,11 @@
 #define TRAINER_PIC_HEX_MANIAC            14
 #define TRAINER_PIC_AROMA_LADY            15
 #define TRAINER_PIC_RUIN_MANIAC           16
-#define TRAINER_PIC_INTERVIEWER           17
+#define TRAINER_PIC_REPORTERS             17
 #define TRAINER_PIC_TUBER_F               18
 #define TRAINER_PIC_TUBER_M               19
-#define TRAINER_PIC_COOLTRAINER_F         20
-#define TRAINER_PIC_LADY                  21
+#define TRAINER_PIC_ACE_TRAINER_F         20
+#define TRAINER_PIC_RICH_GIRL             21
 #define TRAINER_PIC_BEAUTY                22
 #define TRAINER_PIC_RICH_BOY              23
 #define TRAINER_PIC_EXPERT_F              24
@@ -78,8 +78,8 @@
 #define TRAINER_PIC_SWIMMING_TRIATHLETE_M 60
 #define TRAINER_PIC_SWIMMING_TRIATHLETE_F 61
 #define TRAINER_PIC_DRAGON_TAMER          62
-#define TRAINER_PIC_NINJA_BOY             63
-#define TRAINER_PIC_BATTLE_GIRL           64
+#define TRAINER_PIC_NINJA_FAN             63
+#define TRAINER_PIC_KICK_GIRL             64
 #define TRAINER_PIC_PARASOL_LADY          65
 #define TRAINER_PIC_SWIMMER_F             66
 #define TRAINER_PIC_TWINS                 67
@@ -109,7 +109,23 @@
 #define TRAINER_PIC_LEAF                  91
 #define TRAINER_PIC_RS_BRENDAN            92
 #define TRAINER_PIC_RS_MAY                93
-#define TRAINER_PIC_COUNT                 94
+#define TRAINER_PIC_MODEL                 94
+#define TRAINER_PIC_BIKER                 95
+#define TRAINER_PIC_LAD                   96
+#define TRAINER_PIC_BURGLAR               97
+#define TRAINER_PIC_MEDIUM                98
+#define TRAINER_PIC_PUNCH_GIRL            99
+#define TRAINER_PIC_SKINHEAD              100
+#define TRAINER_PIC_LABORER               101
+#define TRAINER_PIC_GAMBLER               102
+#define TRAINER_PIC_JUGGLER               103
+#define TRAINER_PIC_PAINTER               104
+#define TRAINER_PIC_SOUND_TECH            105
+#define TRAINER_PIC_SCIENTIST             106
+#define TRAINER_PIC_NERD                  107
+#define TRAINER_PIC_TAMER                 108
+#define TRAINER_PIC_NEWLYWEDS             109
+#define TRAINER_PIC_COUNT                 110
 
 // The player back pics are assumed to alternate according to the gender values (MALE/FEMALE)
 #define TRAINER_BACK_PIC_BRENDAN                0
@@ -124,7 +140,7 @@
 #define FACILITY_CLASS_HIKER                 0x0
 #define FACILITY_CLASS_AQUA_GRUNT_M          0x1
 #define FACILITY_CLASS_PKMN_BREEDER_F        0x2
-#define FACILITY_CLASS_COOLTRAINER_M         0x3
+#define FACILITY_CLASS_ACE_TRAINER_M         0x3
 #define FACILITY_CLASS_BIRD_KEEPER           0x4
 #define FACILITY_CLASS_COLLECTOR             0x5
 #define FACILITY_CLASS_AQUA_GRUNT_F          0x6
@@ -136,11 +152,11 @@
 #define FACILITY_CLASS_HEX_MANIAC            0xc
 #define FACILITY_CLASS_AROMA_LADY            0xd
 #define FACILITY_CLASS_RUIN_MANIAC           0xe
-#define FACILITY_CLASS_INTERVIEWER           0xf
+#define FACILITY_CLASS_REPORTERS             0xf
 #define FACILITY_CLASS_TUBER_F               0x10
 #define FACILITY_CLASS_TUBER_M               0x11
-#define FACILITY_CLASS_COOLTRAINER_F         0x12
-#define FACILITY_CLASS_LADY                  0x13
+#define FACILITY_CLASS_ACE_TRAINER_F         0x12
+#define FACILITY_CLASS_RICH_GIRL             0x13
 #define FACILITY_CLASS_BEAUTY                0x14
 #define FACILITY_CLASS_RICH_BOY              0x15
 #define FACILITY_CLASS_EXPERT_F              0x16
@@ -174,8 +190,8 @@
 #define FACILITY_CLASS_SWIMMING_TRIATHLETE_M 0x32
 #define FACILITY_CLASS_SWIMMING_TRIATHLETE_F 0x33
 #define FACILITY_CLASS_DRAGON_TAMER          0x34
-#define FACILITY_CLASS_NINJA_BOY             0x35
-#define FACILITY_CLASS_BATTLE_GIRL           0x36
+#define FACILITY_CLASS_NINJA_FAN             0x35
+#define FACILITY_CLASS_KICK_GIRL             0x36
 #define FACILITY_CLASS_PARASOL_LADY          0x37
 #define FACILITY_CLASS_SWIMMER_F             0x38
 #define FACILITY_CLASS_TWINS                 0x39
@@ -291,7 +307,7 @@
 #define TRAINER_CLASS_HIKER          0x2
 #define TRAINER_CLASS_TEAM_AQUA      0x3
 #define TRAINER_CLASS_PKMN_BREEDER   0x4
-#define TRAINER_CLASS_COOLTRAINER    0x5
+#define TRAINER_CLASS_ACE_TRAINER    0x5
 #define TRAINER_CLASS_BIRD_KEEPER    0x6
 #define TRAINER_CLASS_COLLECTOR      0x7
 #define TRAINER_CLASS_SWIMMER_M      0x8
@@ -303,10 +319,10 @@
 #define TRAINER_CLASS_HEX_MANIAC     0xe
 #define TRAINER_CLASS_AROMA_LADY     0xf
 #define TRAINER_CLASS_RUIN_MANIAC    0x10
-#define TRAINER_CLASS_INTERVIEWER    0x11
+#define TRAINER_CLASS_REPORTERS      0x11
 #define TRAINER_CLASS_TUBER_F        0x12
 #define TRAINER_CLASS_TUBER_M        0x13
-#define TRAINER_CLASS_LADY           0x14
+#define TRAINER_CLASS_RICH_GIRL      0x14
 #define TRAINER_CLASS_BEAUTY         0x15
 #define TRAINER_CLASS_RICH_BOY       0x16
 #define TRAINER_CLASS_POKEMANIAC     0x17
@@ -328,13 +344,13 @@
 #define TRAINER_CLASS_FISHERMAN      0x27
 #define TRAINER_CLASS_TRIATHLETE     0x28
 #define TRAINER_CLASS_DRAGON_TAMER   0x29
-#define TRAINER_CLASS_NINJA_BOY      0x2a
-#define TRAINER_CLASS_BATTLE_GIRL    0x2b
+#define TRAINER_CLASS_NINJA_FAN      0x2a
+#define TRAINER_CLASS_KICK_GIRL      0x2b
 #define TRAINER_CLASS_PARASOL_LADY   0x2c
 #define TRAINER_CLASS_SWIMMER_F      0x2d
 #define TRAINER_CLASS_TWINS          0x2e
 #define TRAINER_CLASS_SAILOR         0x2f
-#define TRAINER_CLASS_COOLTRAINER_2  0x30 // Used for only one trainer.
+#define TRAINER_CLASS_ACE_TRAINER_2  0x30 // Used for only one trainer.
 #define TRAINER_CLASS_MAGMA_ADMIN    0x31
 #define TRAINER_CLASS_RIVAL          0x32
 #define TRAINER_CLASS_BUG_CATCHER    0x33
@@ -352,7 +368,23 @@
 #define TRAINER_CLASS_PIKE_QUEEN     0x3f
 #define TRAINER_CLASS_PYRAMID_KING   0x40
 #define TRAINER_CLASS_RS_PROTAG      0x41
-#define TRAINER_CLASS_COUNT          0x42
+#define TRAINER_CLASS_MODEL          0x42
+#define TRAINER_CLASS_BIKER          0x43
+#define TRAINER_CLASS_LAD            0x44
+#define TRAINER_CLASS_BURGLAR        0x45
+#define TRAINER_CLASS_MEDIUM         0x46
+#define TRAINER_CLASS_PUNCH_GIRL     0x47
+#define TRAINER_CLASS_SKINHEAD       0x48
+#define TRAINER_CLASS_LABORER        0x49
+#define TRAINER_CLASS_GAMBLER        0x4a
+#define TRAINER_CLASS_JUGGLER        0x4b
+#define TRAINER_CLASS_PAINTER        0x4c
+#define TRAINER_CLASS_SOUND_TECH     0x4d
+#define TRAINER_CLASS_SCIENTIST      0x4e
+#define TRAINER_CLASS_NERD           0x4f
+#define TRAINER_CLASS_TAMER          0x50
+#define TRAINER_CLASS_NEWLYWEDS      0x51
+#define TRAINER_CLASS_COUNT          0x52
 
 #define TRAINER_ENCOUNTER_MUSIC_MALE         0 // standard male encounter music
 #define TRAINER_ENCOUNTER_MUSIC_FEMALE       1 // standard female encounter music

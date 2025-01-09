@@ -189,7 +189,7 @@ static const struct TrainerHillFloor sFloors_JPDefault[] = {
         .trainers = {
             [0] = {
                 .name = __("シゲゾウ$$$$   "),
-                .facilityClass = FACILITY_CLASS_NINJA_BOY,
+                .facilityClass = FACILITY_CLASS_NINJA_FAN,
                 .unused = TRUE,
                 .speechBefore = { EC_WORD_WIN, EC_WORD_UNTIL, EC_WORD_DAUGHTER, EC_MOVE(CONSTRICT), EC_WORD_OF, EC_WORD_WERE },
                 .speechWin = { EC_MOVE(CONSTRICT), EC_WORD_UNTIL, EC_WORD_LESS, EC_WORD_NONE, EC_WORD_HEY_QUES, EC_WORD_EXCL },
@@ -1612,7 +1612,7 @@ static const struct TrainerHillFloor sFloors_Variety[] = {
                     [1] =
                         {
                             .name = _("ELIZABETH"),
-                            .facilityClass = FACILITY_CLASS_LADY,
+                            .facilityClass = FACILITY_CLASS_RICH_GIRL,
                             .speechBefore = {EC_WORD_CAN, EC_WORD_YOU, EC_WORD_SENSE, EC_WORD_ME, EC_MOVE(FOCUS_ENERGY), EC_WORD_QUES},
                             .speechWin = {EC_WORD_THAT_S, EC_WORD_ABOUT, EC_WORD_RIGHT, EC_WORD_I, EC_WORD_WOULD, EC_WORD_THINK},
                             .speechLose = {EC_WORD_THINGS, EC_WORD_DON_T, EC_WORD_ALWAYS, EC_WORD_WORK, EC_WORD_OUT, EC_EMPTY_WORD},
@@ -2182,7 +2182,7 @@ static const struct TrainerHillFloor sFloors_Variety[] = {
                     [1] =
                         {
                             .name = _("COLLEEN"),
-                            .facilityClass = FACILITY_CLASS_LADY,
+                            .facilityClass = FACILITY_CLASS_RICH_GIRL,
                             .speechBefore = {EC_WORD_I, EC_WORD_WOULD, EC_WORD_LIKE, EC_WORD_TO, EC_WORD_ROCK, EC_WORD_OUT},
                             .speechWin = {EC_WORD_I, EC_WORD_LIKE, EC_WORD_THIS, EC_WORD_ROCK, EC_WORD_THING, EC_WORD_EXCL},
                             .speechLose = {EC_WORD_GO_AHEAD, EC_WORD_AND, EC_WORD_CRUSH, EC_WORD_MY, EC_WORD_DREAM, EC_WORD_ELLIPSIS},
@@ -3715,7 +3715,7 @@ static const struct TrainerHillFloor sFloors_Expert[] = {
                     [0] =
                         {
                             .name = _("ALFRED"),
-                            .facilityClass = FACILITY_CLASS_COOLTRAINER_M,
+                            .facilityClass = FACILITY_CLASS_ACE_TRAINER_M,
                             .speechBefore = {EC_WORD_WE, EC_WORD_CAN, EC_WORD_TAKE, EC_WORD_ON, EC_WORD_ANY, EC_WORD_TYPE},
                             .speechWin = {EC_WORD_WE, EC_WORD_DID, EC_WORD_BETTER, EC_WORD_THAN, EC_WORD_OKAY, EC_WORD_EXCL},
                             .speechLose = {EC_WORD_OUR, EC_WORD_STRATEGY, EC_WORD_ISN_T, EC_WORD_ANY, EC_WORD_GOOD, EC_WORD_ELLIPSIS},
@@ -3994,7 +3994,7 @@ static const struct TrainerHillFloor sFloors_Expert[] = {
                     [0] =
                         {
                             .name = _("RODERICK"),
-                            .facilityClass = FACILITY_CLASS_COOLTRAINER_M,
+                            .facilityClass = FACILITY_CLASS_ACE_TRAINER_M,
                             .speechBefore = {EC_WORD_I, EC_WORD_CAN, EC_WORD_WIN, EC_WORD_WITHOUT, EC_WORD_A, EC_MOVE2(HELPING_HAND)},
                             .speechWin = {EC_WORD_IT_S, EC_WORD_ONLY, EC_WORD_NATURAL, EC_WORD_THAT, EC_WORD_I, EC_WORD_WIN},
                             .speechLose = {EC_WORD_LOSING, EC_WORD_HAS, EC_WORD_ME, EC_WORD_FEELING, EC_WORD_SMALL, EC_WORD_ELLIPSIS},
@@ -4126,7 +4126,7 @@ static const struct TrainerHillFloor sFloors_Expert[] = {
                     [1] =
                         {
                             .name = _("ALICIA"),
-                            .facilityClass = FACILITY_CLASS_COOLTRAINER_F,
+                            .facilityClass = FACILITY_CLASS_ACE_TRAINER_F,
                             .speechBefore = {EC_WORD_I, EC_WORD_DON_T, EC_WORD_NEED, EC_WORD_A, EC_MOVE2(HELPING_HAND), EC_WORD_EXCL},
                             .speechWin = {EC_WORD_SORRY, EC_WORD_EXCL, EC_WORD_TOO, EC_WORD_BAD, EC_WORD_FOR, EC_WORD_YOU},
                             .speechLose = {EC_WORD_WHAT, EC_WORD_AN, EC_WORD_UNBELIEVABLE, EC_MOVE2(STRUGGLE), EC_WORD_THAT_WAS, EC_WORD_EXCL},
