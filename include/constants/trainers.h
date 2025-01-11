@@ -384,7 +384,8 @@
 #define TRAINER_CLASS_NERD           0x4f
 #define TRAINER_CLASS_TAMER          0x50
 #define TRAINER_CLASS_NEWLYWEDS      0x51
-#define TRAINER_CLASS_COUNT          0x52
+#define TRAINER_CLASS_SCHOOLGIRL     0x52
+#define TRAINER_CLASS_COUNT          0x53
 
 #define TRAINER_ENCOUNTER_MUSIC_MALE         0 // standard male encounter music
 #define TRAINER_ENCOUNTER_MUSIC_FEMALE       1 // standard female encounter music
