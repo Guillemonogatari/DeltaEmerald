@@ -1438,12 +1438,14 @@ static const u8 *ReturnEmptyStringIfNull(const u8 *string)
 
 static const u8 *GetIntroSpeechOfApproachingTrainer(void)
 {
-    if (gApproachingTrainerId == 0)
+    if (gApproachingTrainerId == 0) {
         gSpeakerName = GetTrainerNameFromId(TRAINER_BATTLE_PARAM.objEventLocalIdA);
         return ReturnEmptyStringIfNull(TRAINER_BATTLE_PARAM.introTextA);
-    else
+        }
+    else {
         gSpeakerName = GetTrainerNameFromId(TRAINER_BATTLE_PARAM.objEventLocalIdB);
         return ReturnEmptyStringIfNull(TRAINER_BATTLE_PARAM.introTextB);
+        }
 }
 
 const u8 *GetTrainerALoseText(void)
